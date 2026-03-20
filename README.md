@@ -23,7 +23,7 @@
 ### Phase 1 — Foundations
 | Topic | Status |
 |-------|--------|
-| How the web works (Client → Server → DB) | ⏳ |
+| How the web works (Client → Server → DB) | ✅ |
 | DNS (Domain Name System) | ⏳ |
 | HTTP / HTTPS | ⏳ |
 | TCP/IP basics | ⏳ |
