@@ -1,4 +1,4 @@
-# 📒 System Design Notes
+# 📒 System Design
 
 > not the smartest in the room but i know system design, because average was never the goal.
 
