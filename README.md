@@ -7,7 +7,7 @@
 ## 🗂️ Structure
 
 ```
-📁 notes/
+📁 system-design/
    ├── phase-1-foundations/
    ├── phase-2-core-components/
    ├── phase-3-scalability/
@@ -104,19 +104,6 @@
 | Monitoring and observability | ⏳ |
 
 ---
-
-## ✍️ Note Format
-
-Each topic note follows this structure:
-
-```
-## What is it?
-## Why do we need it?
-## How does it work?
-## Key points to remember
-## Real-world example
-## Resources
-```
 
 ## 🐦 Follow Along
 
