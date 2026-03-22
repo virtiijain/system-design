@@ -1,5 +1,23 @@
 # What is System Design?
 
+## Diagram
+```
+         1M USERS
+             │
+             ▼
+      ┌─────────────┐
+      │   YOUR APP  │
+      └─────────────┘
+        │         │
+        ▼         ▼
+    SERVER     DATABASE
+    
+Without SD →  crashes, slow, breaks
+With SD    →  fast, reliable, scalable
+```
+
+## Interview Questions
+
 **Q1. What is system design?**
 > "System design is the process of defining architecture, components and data flow of a system to meet specific requirements — mainly scalability, reliability and performance."
 
