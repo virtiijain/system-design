@@ -1,5 +1,25 @@
 # Client Server Model
 
+## Diagram
+```
+┌──────────┐         ┌──────────┐
+│          │─REQUEST─►          │
+│  CLIENT  │         │  SERVER  │
+│(browser) │◄RESPONSE─          │
+└──────────┘         └──────────┘
+      │                    │
+      │                    ▼
+   shows              ┌──────────┐
+   result             │ DATABASE │
+                      └──────────┘
+
+REQUEST  = "give me this data"
+RESPONSE = "here is your data"
+API      = the door they talk through
+```
+
+## Interview Questions
+
 **Q1. What is the client server model?**
 > "Client server model is an architecture where the client sends a request and the server processes it and sends back a response. The client is usually a browser or mobile app, and the server handles business logic and data."
 
