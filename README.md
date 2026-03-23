@@ -24,8 +24,8 @@
 | Topic | Status |
 |-------|--------|
 | How the web works (Client → Server → DB) | ✅ |
-| DNS (Domain Name System) | ⏳ |
-| HTTP / HTTPS | ⏳ |
+| DNS (Domain Name System) | ✅ |
+| HTTP / HTTPS | ✅ |
 | TCP/IP basics | ⏳ |
 | REST vs GraphQL vs gRPC | ⏳ |
 | Forward proxy vs Reverse proxy | ⏳ |
