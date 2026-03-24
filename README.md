@@ -26,10 +26,10 @@
 | How the web works (Client → Server → DB) | ✅ |
 | DNS (Domain Name System) | ✅ |
 | HTTP / HTTPS | ✅ |
-| TCP/IP basics | ⏳ |
-| REST vs GraphQL vs gRPC | ⏳ |
-| Forward proxy vs Reverse proxy | ⏳ |
-| Long polling vs WebSockets vs SSE | ⏳ |
+| TCP/IP basics | ✅ |
+| REST vs GraphQL vs gRPC | ✅ |
+| Forward proxy vs Reverse proxy | ✅ |
+| Long polling vs WebSockets vs SSE | ✅ |
 | Latency, Throughput, Bandwidth | ⏳ |
 | CAP theorem | ⏳ |
 | ACID vs BASE | ⏳ |
