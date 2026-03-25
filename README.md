@@ -30,9 +30,9 @@
 | REST vs GraphQL vs gRPC | ✅ |
 | Forward proxy vs Reverse proxy | ✅ |
 | Long polling vs WebSockets vs SSE | ✅ |
-| Latency, Throughput, Bandwidth | ⏳ |
-| CAP theorem | ⏳ |
-| ACID vs BASE | ⏳ |
+| Latency, Throughput, Bandwidth | ✅ |
+| CAP theorem | ✅ |
+| ACID vs BASE | ✅ |
 
 ### Phase 2 — Core Components
 | Topic | Status |
